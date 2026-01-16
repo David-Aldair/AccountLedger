@@ -16,7 +16,7 @@ public class Features {
 
     public static void customSearch() {
 
-        //Create Lis of Transaction named allTransactions
+        //Create List of Transaction named allTransactions
         List<Transaction> allTransactions = readTransactions("transactions.csv");
 
         //Create variable to keep customSearch running
